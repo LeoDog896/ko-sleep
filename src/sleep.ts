@@ -18,4 +18,4 @@ function sleep(time: number | string): Promise<void> {
   })
 }
 
-export = sleep
+export default sleep
