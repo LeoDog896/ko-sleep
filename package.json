@@ -3,6 +3,7 @@
   "version": "1.1.4",
   "description": "A promise wrapper for `setTimeout`",
   "main": "./dist/sleep.js",
+  "type": "module",
   "scripts": {
     "test": "ava",
     "build": "tsc",
